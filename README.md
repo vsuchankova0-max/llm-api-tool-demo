@@ -1,6 +1,6 @@
 # LLM API Tool Calling Demo
 
-Jednoduchy Python projekt pro skolni ukol: skript zavola LLM API, model muze pouzit lokalni vypocetni nastroj a vysledek nastroje se posle zpet modelu pro finalni odpoved.
+Jednoduchý Python skript zavola LLM API, model muze pouzit lokalni vypocetni nastroj a vysledek nastroje se posle zpet modelu pro finalni odpoved.
 
 ## Co projekt ukazuje
 
