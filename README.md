@@ -92,7 +92,3 @@ py app.py --show-tool-calls "Kolik je sqrt(144) + 8 * 5?"
 6. Model vytvori finalni odpoved pro uzivatele.
 
 Kalkulator podporuje operatory `+`, `-`, `*`, `/`, `**`, `%`, zavorky a funkce `sqrt`, `abs`, `round`, `ceil`, `floor`.
-
-## Odevzdani
-
-Do ukolu se odevzdava odkaz na GitHub repozitar. Pred publikovanim zkontroluj, ze v repozitari neni soubor `.env` ani zadny skutecny API klic.
